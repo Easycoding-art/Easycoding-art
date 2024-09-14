@@ -12,8 +12,8 @@ You can see set of mostly used technologies and libraries below:
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 [![CatBoost](https://img.shields.io/badge/-CatBoost-0000?&logo=&color=yellow&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/-Pytorch-D00000?logo=pytorch&logoColor=white)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Easycoding-art=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Easycoding-art=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easycoding-art&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Easycoding-art&show_icons=true&theme=radical)
 <!--
 **Easycoding-art/Easycoding-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
