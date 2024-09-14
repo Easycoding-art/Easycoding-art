@@ -5,6 +5,7 @@
 My main programming language is Python, because it is very useful and comfortable for performing machine learning experiments. I am familiar both with classical methods (linear regression, gradient boosting, SVM, naive Bayesian e.g.) and deep learning models. I use Google Colab and Kaggle in order to train the models. Also you can check out my [Kaggle account](https://www.kaggle.com/mikhailsedinkin).
 
 You can see set of mostly used technologies and libraries below:
+
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
 [![Python 3](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)]()
@@ -13,6 +14,7 @@ You can see set of mostly used technologies and libraries below:
 [![PyTorch](https://img.shields.io/badge/-Pytorch-D00000?logo=pytorch&logoColor=white)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easycoding-art&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Easycoding-art&show_icons=true&theme=radical)
 <!--
 **Easycoding-art/Easycoding-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
