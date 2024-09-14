@@ -1,8 +1,8 @@
-***Hi there 👋*** My name is **Mikhail Sedinkin**. Currently I'm a student at NRNU MEPhI, Moscow, Russian Federation. I am interested in ML, DL, NLP, CV and RecSys
+***Hi there 👋*** My name is **Mikhail Sedinkin**. Currently I'm a student at NRNU MEPhI, Moscow, Russian Federation. I am interested in ML, DL, NLP, CV and RecSys.
 
 ### :computer: List of technologies
 
-My main programming language is Python, because it is very useful and comfortable for performing machine learning experiments. I am familiar both with classical methods (linear regression, gradient boosting, SVM, naive Bayesian e.g.) and deep learning models. I use Google Colab and Kaggle in order to train the models. Also you can check out my [Kaggle account](https://www.kaggle.com/mikhailsedinkin).
+My main programming language is Python, due to it's useability for programming and performing machine learning models. I am familiar both with classical methods (linear and logistic regression, gradient boosting, KNN, Random Forest, naive Bayesian etc.) and deep learning models. I use Google Colab and other tools to train models. Also you can check out my [Kaggle account](https://www.kaggle.com/mikhailsedinkin).
 
 You can see set of mostly used technologies and libraries below:
 
