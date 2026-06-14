@@ -1,4 +1,8 @@
-***Hi there 👋*** My name is **Mikhail Sedinkin**. Currently I'm a student at NRNU MEPhI, Moscow, Russian Federation. I am interested in ML, DL, NLP, CV and RecSys.
+***Hi there 👋*** My name is **Mikhail Sedinkin**. Currently I'm getting Master`s degree at NRNU MEPhI, Moscow, Russian Federation. I am interested in Classic ML, DL, NLP, CV and RecSys.
+
+### 🌱 Currently studying
+- Advanced NLP (Transformers, fine-tuning LLM)
+- AI-agents
 
 ### :computer: List of technologies
 
@@ -12,21 +16,10 @@ You can see set of mostly used technologies and libraries below:
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 [![CatBoost](https://img.shields.io/badge/-CatBoost-0000?&logo=&color=yellow&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/-Pytorch-D00000?logo=pytorch&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)]()
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easycoding-art&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Easycoding-art&show_icons=true&theme=radical)
-<!--
-**Easycoding-art/Easycoding-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
